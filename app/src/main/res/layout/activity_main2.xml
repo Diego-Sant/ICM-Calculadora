@@ -22,7 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:text="CALCULADORA ICM"
+        android:text="CALCULADORA IMC"
         android:textStyle="bold"
         android:textSize="25sp"
         android:fontFamily="@font/raleway"
